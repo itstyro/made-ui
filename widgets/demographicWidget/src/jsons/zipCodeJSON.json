@@ -1,0 +1,29 @@
+{
+  "zipCodeData":[
+    {
+      "zipCode":"20006",
+      "county":"District of Columbia",
+      "state":"  VA"
+    },
+    {
+      "zipCode":"30007",
+      "county":"Cobb County",
+      "state":"  WA"
+    },
+    {
+      "zipCode":"40007",
+      "county":"Henry County",
+      "state":"  TEXAS"
+    },
+    {
+      "zipCode":"50007",
+      "county":"Polk County",
+      "state":"  ALASKA"
+    },
+    {
+      "zipCode":"46204",
+      "county":"Marion County",
+      "state":"  INDIANA"
+    }
+  ]
+}

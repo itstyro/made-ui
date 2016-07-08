@@ -1,0 +1,23 @@
+{
+   "application":[
+      {
+         "title":"M.A.D.E. Medicare Application Data Entry Tool",
+         "staticContent":{
+            "header":{
+               "lblLogout":"Logout",
+               "lblWelcome":"Welcome User",
+               "links":[
+                  {
+                     "label":"M.A.D.E. Medicare Application Data Entry Tool",
+                     "url":"\/images\/ChangeTIN\/src\/images\/madelogo.png"
+                  }
+               ]
+            },
+            "widgetStyle":{
+                 "backgroundColor" : "#0079C2"
+
+            }
+         }
+      }
+   ]
+}

@@ -1,0 +1,29 @@
+{
+	"getBrokerListResponse" : [{
+		"stateCode" : "4780" ,
+		"parentAgencies" : [{
+			"agencyName" : "Agency 1 for AS1",
+			"parentTin" : "234234234",
+			"agents": [{
+				"agentName" : "Agent XA",
+				"writingTin" : "234234900X901"
+			},
+			{
+				"agentName" : "Agent XB",
+				"writingTin" : "234234900X943"
+			}]
+		} , 
+		{
+			"agencyName" : "Agency 2 for AS2",
+			"parentTin" : "234234255",
+			"agents": [{
+				"agentName" : "Agent YA",
+				"writingTin" : "234234900X901"
+			},
+			{
+				"agentName" : "Agent YB",
+				"writingTin" : "234234900X963"
+			}]
+		}]
+	}]
+}

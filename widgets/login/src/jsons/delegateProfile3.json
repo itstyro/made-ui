@@ -1,0 +1,348 @@
+{
+	"broker": null,
+	"delegate": {
+		"type" : "delegate",
+		"firstName": "Jileesh",
+		"lastName": "Janardhanan",
+		"middleName": null,
+		"prefix": null,
+		"suffix": null,
+		"payableBrokers": [{
+			"brokerId": "34523523",
+			"brokerTIN": "JHGHJG543HJGHJG1",
+			"affliatedStates": ["CT" , "CA" , "OH"],
+			"payableBrokers": [{
+				"brokerId": "999999999",
+				"brokerTIN": "JHGH77GHJGHJGUY",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 1"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "JHGH77GHJGH543JG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 2"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "JHKJHGH77GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 2"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "8768JHGH77GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 3"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "JHGH77GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 4"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "JHGH98777GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 5"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "987JHGH77GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 6"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "987JHGH77GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 7"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "876JHGH77GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 8"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "87698797JHGH77GHJGHJG",
+				"affliatedStates": ["OH"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 9"
+			},{
+				"brokerId": "999999999",
+				"brokerTIN": "010JHGHJGHJG09HJG",
+				"affliatedStates": ["CA"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Agency 10"
+			}],
+			"contactInfo": {
+				"communicationChannels": [
+					{
+						"name": "OfficePhone",
+						"value": "8775675267"
+					},
+					{
+						"name": "EmailAddress",
+						"value": "AGENTINFO@HEALTHPLANONE.COM"
+					}],				"address": {
+					"address1": "511-5762 At Rd.",
+					"address2": null,
+					"city": "Chelsea",
+					"state": "KY",
+					"zipCode": null,
+					"county": "Rosa",
+					"country": null
+				}
+			},
+			"type": "general agency",
+			"name": "Agency 11"
+		}],
+		"assignedAgents": [],
+		"assignedAgentsPopulated": false,
+		"associatedBrokerTIN": "JHJ987HJHJHJHJH",
+		"contactInfo": {
+			"communicationChannels": [
+				{
+					"name": "OfficePhone",
+					"value": "8775675267"
+				},
+				{
+					"name": "EmailAddress",
+					"value": "AGENTINFO@HEALTHPLANONE.COM"
+				}],
+			"address": null
+		}
+	}
+}

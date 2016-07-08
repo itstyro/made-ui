@@ -1,0 +1,132 @@
+[{
+	"brokerId": "123456",
+	"brokerTIN": "WSHGHGUTJHVJHGHJK",
+	"affliatedStates": ["CO", "CA", "KY"],
+	"payableBrokers": [{
+		"brokerId": null,
+		"brokerTIN": "JHGHJGHJGHJG",
+		"affliatedStates": null,
+		"payableBrokers": null,
+		"contactInfo": {
+			"communicationChannels": null,
+			"address": {
+				"address1": "711-2880 Nulla St.",
+				"address2": null,
+				"city": "Mankato",
+				"state": "MI",
+				"zipCode": null,
+				"county": "Azusa",
+				"country": null
+			}
+		},
+		"type": null,
+		"name": "Hogsmeade Inc."
+	},{
+		"brokerId": null,
+		"brokerTIN": "JHGHJGHJGHJG",
+		"affliatedStates": null,
+		"payableBrokers": null,
+		"contactInfo": {
+			"communicationChannels": null,
+			"address": {
+				"address1": "711-2880 Nulla St.",
+				"address2": null,
+				"city": "Mankato",
+				"state": "MI",
+				"zipCode": null,
+				"county": "Azusa",
+				"country": null
+			}
+		},
+		"type": null,
+		"name": "Hogsmeade Inc."
+	},{
+		"brokerId": null,
+		"brokerTIN": "JHGHJGHJGHJG",
+		"affliatedStates": null,
+		"payableBrokers": null,
+		"contactInfo": {
+			"communicationChannels": null,
+			"address": {
+				"address1": "711-2880 Nulla St.",
+				"address2": null,
+				"city": "Mankato",
+				"state": "MI",
+				"zipCode": null,
+				"county": "Azusa",
+				"country": null
+			}
+		},
+		"type": null,
+		"name": "Hogsmeade Inc."
+	}],
+	"contactInfo": {
+		"communicationChannels": [{
+			"name": "EmailAddress",
+			"value": "asaasd@gmail.com"
+		}, {
+			"name": "OfficePhone",
+			"value": "12121212121"
+		}],
+		"address": {
+			"address1": "22130 Victory Blvs",
+			"address2": "E11",
+			"city": "Woodland Hills",
+			"state": "CA",
+			"zipCode": "91367",
+			"county": "Los Angeles",
+			"country": "US"
+		}
+	},
+	"type": "Agent",
+	"firstName": "Raghu",
+	"lastName": "Ponniah",
+	"middleName": "Raman",
+	"prefix": null,
+	"suffix": null
+}, {
+	"brokerId": "878787878787",
+	"brokerTIN": "GFGAHSFHAGSHAGD",
+	"affliatedStates": ["CO"],
+	"payableBrokers": [{
+		"brokerId": null,
+		"brokerTIN": "JHGHJGHJGHJG",
+		"affliatedStates": null,
+		"payableBrokers": null,
+		"contactInfo": {
+			"communicationChannels": null,
+			"address": {
+				"address1": "PO BOX 3454",
+				"address2": null,
+				"city": "DURANGO",
+				"state": "CO",
+				"zipCode": null,
+				"county": "LA PLATA",
+				"country": null
+			}
+		},
+		"type": null,
+		"name": "Hogsmeade Inc."
+	}],
+	"contactInfo": {
+		"communicationChannels": [{
+			"name": "EmailAddress",
+			"value": "asaasd@gmail.com"
+		}],
+		"address": {
+			"address1": "30856 Agoura Road",
+			"address2": "R112",
+			"city": "Agoura Hills",
+			"state": "CA",
+			"zipCode": "91301",
+			"county": "LA",
+			"country": "US"
+		}
+	},
+	"type": "Agent",
+	"firstName": "Vineeta",
+	"lastName": "Sreekumar",
+	"middleName": null,
+	"prefix": null,
+	"suffix": null
+}]

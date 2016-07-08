@@ -1,0 +1,75 @@
+{
+	"logindata": [
+		{
+			"name": "David - Agent - Authorized (Multi Assoc)",
+			"brokerIdentifier": "AG1",
+			"stateList" : [{
+						"code" : "CA",
+						"stateName" : "California"
+				},{
+							"code" : "AK"
+					},{
+								"code" : "OH",
+								"stateName" : "Ohio"
+						},{
+									"code" : "VA"
+							}],
+			"userType" : "agent",
+			"username" : "DavidAgent",
+			"password":"123"
+		},
+		{
+			"name": "John - Agent - Single State Multiple agencies",
+			"brokerIdentifier": "AG2",
+			"stateList" : [{
+						"code" : "CA",
+						"stateName" : "California"
+				},{
+							"code" : "AK"
+					},{
+								"code" : "OH",
+								"stateName" : "Ohio"
+						}],
+				"userType" : "agent",
+				"username" : "JohnAgent",
+				"password":"123"
+		},
+		{
+			"name": "Peter - Agent - SingleAssoc",
+			"brokerIdentifier": "AG3",
+			"stateList" : [{
+						"code" : "CA",
+						"stateName" : "California"
+				}],
+				"userType" : "agent",
+				"username" : "PeterAgent",
+				"password":"123"
+		},
+		{
+			"name": "Gru - Assistant - Authorized (Multi Assoc)",
+			"brokerIdentifier": "AS1",
+			"stateList" : [{
+						"code" : "CA",
+						"stateName" : "Calfornia"
+				}],
+				"userType" : "assistant",
+				"username" : "Gru",
+				"password":"123"
+		},
+		{
+			"name": "Brave - Assistant - Unauthorized",
+			"brokerIdentifier": "AS2",
+			"stateList" : [{
+						"code" : "CA",
+						"stateName" : "California"
+				}],
+				"userType" : "assistant",
+				"username" : "BraveAssistant",
+				"password":"123"
+		},
+		{
+			"name": "Doe - Assistant - SingleAssoc",
+			"brokerIdentifier": "AS3"
+		}
+	]
+}

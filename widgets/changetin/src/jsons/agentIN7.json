@@ -1,0 +1,91 @@
+{
+  "broker": {
+    "brokerId": "036344442",
+    "brokerTIN": "DHDKLMQNPZ",
+    "affliatedStates": [
+      "GA",
+      "IN",
+      "KY",
+      "ME",
+      "NV",
+      "NY",
+      "OH",
+      "VA",
+      "WI"
+    ],
+    "payableBrokers": [
+      {
+        "brokerId": "204098658",
+        "brokerTIN": "LNGLQPNKLY",
+        "affliatedStates": [
+          "CA",
+          "CO",
+          "CT",
+          "GA",
+          "IN",
+          "KY",
+          "ME",
+          "MO",
+          "NH",
+          "NV",
+          "NY",
+          "OH",
+          "VA",
+          "WI"
+        ],
+        "payableBrokers": [],
+        "contactInfo": {
+          "communicationChannels": [
+            {
+              "name": "OfficePhone",
+              "value": "8775675267"
+            },
+            {
+              "name": "EmailAddress",
+              "value": "AGENTINFO@HEALTHPLANONE.COM"
+            }
+          ],
+          "address": {
+            "address1": "35 NUTMEG DRIVE SUITE 220",
+            "address2": "",
+            "city": "TRUMBULL",
+            "state": "CT",
+            "zipCode": "06611",
+            "county": "FAIRFIELD"
+          }
+        },
+        "type": "GeneralAgency",
+        "name": "HEALTH PLAN ONE LLC"
+      }
+    ],
+    "contactInfo": {
+      "communicationChannels": [
+        {
+          "name": "OfficePhone",
+          "value": "4107344102"
+        },
+        {
+          "name": "EmailAddress",
+          "value": "ARLENE.SHELTON@AMWINS.COM"
+        }
+      ],
+      "address": {
+        "address1": "65 SUNSET AVE",
+        "address2": "",
+        "city": "WARREN",
+        "state": "RI",
+        "zipCode": "02885",
+        "county": "BRISTOL"
+      }
+    },
+    "type": "Agent",
+    "firstName": "ARLENE",
+    "lastName": "SHELTON",
+    "middleName": "A"
+  },
+  "responseCode": {
+    "status": "SUCCESSFUL",
+    "message": "SUCCESSFULLY FETCHED",
+    "responseCode": "200"
+  }
+}

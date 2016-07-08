@@ -1,0 +1,26 @@
+{
+  "plans":[
+    {
+      "planId":"20006",
+      "planDisplayName":"Medicare Supplimental-MEDSUP",
+      "planType":"MEDSUP",
+      "coverageType":"MEDSUP"
+
+    },
+    {
+      "planId":"20007",
+      "planDisplayName":"Medicare Advantage Part D-MAPD",
+      "planType":"MAPD",
+      "coverageType":"MAPD"
+
+    },
+    {
+      "planId":"20008",
+      "planDisplayName":"Prescription Drug Plan-PDP",
+      "planType":"PDP",
+      "coverageType":"PDP"
+
+    }
+
+  ]
+}

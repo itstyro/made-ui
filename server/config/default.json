@@ -1,0 +1,14 @@
+{
+    "domain": "http://localhost:3000",
+    "port": 8888,
+    "__port": "8888",
+    "compressionThreshold": 512,
+    "host": "VA10DLVWBS306.wellpoint.com",
+    "__host": "localhost",
+
+    "staticFolderMount": "/assets",
+    "staticFolders": ["dist"],
+    "maxAge": "1d",
+    "development": true,
+    "templateRoot": "templates"
+}

@@ -1,0 +1,22 @@
+{
+	"WritingAgent": [{
+		"pageContent": {
+			"lblSelectWritingAgent": "---Select Writing Agent---",
+			"lblSelectParentAgency": "---Select Parent Agency---",
+			"lblSelectState": "---Select State---",
+			"lblSelfIndependant": "Self / Independant",
+			"lblContinue": "continue",
+			"messages": [{
+				"type": "errorMessage",
+				"field_type": "rich_text",
+				"name": "noStateSelected",
+				"content": "<span style='color:red'>Please select state to proceed.</span>"
+			}, {
+				"type": "errorMessage",
+				"field_type": "rich_text",
+				"name": "noAgentSelected",
+				"content": "<span style='color:red'>Please select agent to proceed.</span>"
+			}]
+		}
+	}]
+}

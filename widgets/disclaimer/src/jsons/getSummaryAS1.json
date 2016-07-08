@@ -1,0 +1,15 @@
+{
+	"summary": 
+		{
+			"name": "Gru - Assistant - Authorized (Multi Assoc)",
+			"type": "Assistant",
+			"lineOfBusiness": "Assistant", 
+			"hierarchyLevel": "Level1",
+			"getRelationShip": "Assistant", 
+			"paidIdentifier": "AS1",
+			"getAddress": "test california",
+			"brokerIdentifier": "AS1",
+			"stateCode": 4780,
+			"isAuthorized": true
+		}
+}

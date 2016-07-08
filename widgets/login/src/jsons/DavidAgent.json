@@ -1,0 +1,153 @@
+{
+	"broker": {
+		"brokerId": "123456",
+		"brokerTIN": "WSHGHGUTJHVJHGHHK",
+		"affliatedStates": ["CO", "CA", "KY"],
+		"payableBrokers": [{
+			"brokerId": null,
+			"brokerTIN": "JHGHJGHJGHJZ",
+			"affliatedStates": ["CO"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "711-2880 Nulla St.",
+					"address2": null,
+					"city": "Mankato",
+					"state": "CO",
+					"zipCode": null,
+					"phoneNumber" : 8181231222,
+					"county": "Azusa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Hogsmeade Inc."
+		}, {
+			"brokerId": null,
+			"brokerTIN": "JHGHJGHJGHJQ",
+			"affliatedStates": ["CA"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "711-2880 Nulla St.",
+					"address2": null,
+					"city": "Mankato",
+					"state": "CA",
+					"zipCode": null,
+					"county": "Azusa",
+					"phoneNumber" : 8181231222,
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Gryffindor Inc."
+		},{
+			"brokerId": null,
+			"brokerTIN": "JHGHIUGHJGHJG",
+			"affliatedStates": ["KY"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "711-2880 Nulla St.",
+					"address2": null,
+					"city": "Mankato",
+					"state": "KY",
+					"zipCode": null,
+					"county": "Azusa",
+					"phoneNumber" : 8181231222,
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Gryffindor Inc."
+		},{
+			"brokerId": null,
+			"brokerTIN": "JHGNHGJGHJGHJG",
+			"affliatedStates": ["CO"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "712 3rd St. Rocky Hill",
+					"address2": null,
+					"city": "Mankato",
+					"state": "CO",
+					"zipCode": null,
+					"county": "Azusa",
+					"phoneNumber" : 8181231222,
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "USA Health Inc."
+		}, {
+			"brokerId": null,
+			"brokerTIN": "467JHGHJGHJGHJG",
+			"affliatedStates": ["CA"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "123 Newbury Park",
+					"address2": null,
+					"city": "Thousand Oaks",
+					"state": "CA",
+					"zipCode": null,
+					"county": "Azusa",
+					"phoneNumber" : 8181231222,
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Harry Health Inc."
+		},{
+			"brokerId": null,
+			"brokerTIN": "J78HGHJGHJGHJG",
+			"affliatedStates": ["KY,CA"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "1234-2880 My Agency St.",
+					"address2": null,
+					"city": "Kentuky",
+					"state": "KY",
+					"zipCode": null,
+					"phoneNumber" : 8181231222,
+					"county": "Azusa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Ravenclaws Inc."
+		}],
+		"contactInfo": {
+			"communicationChannels": [{
+				"name": "EmailAddress",
+				"value": "asaasd@gmail.com"
+			}, {
+				"name": "OfficePhone",
+				"value": "12121212121"
+			}],
+			"address": {
+				"address1": "22130 Victory Blvs",
+				"address2": "E11",
+				"city": "Woodland Hills",
+				"state": "CA",
+				"zipCode": "91367",
+				"county": "Los Angeles",
+				"country": "US"
+			}
+		},
+		"type": "Agent",
+		"firstName": "Raghu",
+		"lastName": "Ponniah",
+		"middleName": "Raman",
+		"prefix": null,
+		"suffix": null
+	},
+	"delegate": null
+}

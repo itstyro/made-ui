@@ -1,0 +1,668 @@
+{"planSummaryResponse": {
+ "medicarePlans": {"medicarePlan":    [
+          {
+       "id": "2334",
+       "displayname": "Anthem Blue MedicareRx Standard (PDP)",
+       "description": "Anthem Blue MedicareRx Standard (PDP) is a stand alone prescription drug plan with a Medicare contract.",
+       "type": "PartD",
+       "coverageEffectiveDate": "01-01-2016",
+       "coverageType": "PDP",
+       "productType": "DRUG",
+       "riders":          [
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          }
+       ]
+
+    },
+          {
+       "id": "2356",
+       "displayname": "Anthem Blue MedicareRx Premier (PDP)",
+       "description": "Anthem Blue MedicareRx Premier (PDP) is a stand alone prescription drug plan with a Medicare contract.",
+       "type": "PartD",
+       "coverageEffectiveDate": "01-01-2016",
+       "coverageType": "PDP",
+       "productType": "DRUG",
+       "riders":          [
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          }
+       ]
+
+    },
+          {
+       "id": "2345",
+       "displayname": "Anthem Blue MedicareRx Plus (PDP)",
+       "description": "Anthem Blue MedicareRx Plus (PDP) is a stand alone prescription drug plan with a Medicare contract.",
+       "type": "PartD",
+       "coverageEffectiveDate": "01-01-2016",
+       "coverageType": "PDP",
+       "productType": "DRUG",
+       "riders":          [
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          }
+       ]
+
+    },
+          {
+       "id": "1144",
+       "displayname": "Original Medicare",
+       "description": "",
+       "type": "Original_Medicare",
+       "coverageEffectiveDate": "01-06-2010",
+       "coverageType": "ORIG_MEDICARE",
+       "productType": "MEDICAL",
+       "riders":          [
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          }
+       ]
+
+    },
+          {
+       "id": "2366",
+       "displayname": "Basic Plan",
+       "description": "A Medicare Supplement insurance policy (Medigap) is a type of private insurance that helps you pay for some of the costs that Original Medicare doesn't cover like Medicare Part A Coinsurance, Blood (first 3 pints), Hospice Care and Medicare Part B Coinsurance.",
+       "type": "MED_SUPP",
+       "coverageEffectiveDate": "01-01-2016",
+       "coverageType": "MED_SUPP",
+       "productType": "DRUG",
+       "riders":          [
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "HomeHealth_Rider",
+             "displayName": "Additional Home Health Care Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBCopay_Rider",
+             "displayName": "Medicare Part B Copayment or Coinsurance Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBDeductible_Rider",
+             "displayName": "Medicare Part B Deductible Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartBExcess_Rider",
+             "displayName": "Medicare Part B Excess Charges Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "PartADeductible_Rider",
+             "displayName": "Medicare Part A Deductible Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          },
+                      {
+             "name": "ForeignTravel_Rider",
+             "displayName": "Foreign Travel Emergency Rider"
+          }
+       ]
+        }
+ ]},
+ "responseMessage":    {
+    "status": "SUCCESSFUL",
+    "responseCode": "200",
+    "message": "SUCCESSFULLY FETCHED"
+ }
+}}

@@ -1,0 +1,132 @@
+{
+	"broker": null,
+	"delegate": {
+		"type" : "delegate",
+		"firstName": "Jileesh",
+		"lastName": "Janardhanan",
+		"middleName": null,
+		"prefix": null,
+		"suffix": null,
+		"payableBrokers": [{
+			"brokerId": "34523523",
+			"brokerTIN": "JHGHJG543HJGHJG",
+			"affliatedStates": ["CT" , "CA" , "OH"],
+			"payableBrokers": [{
+				"brokerId": null,
+				"brokerTIN": "JHGH77GHJGHJG",
+				"affliatedStates": ["CT"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],
+					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Hogsmeade Inc."
+			},{
+				"brokerId": null,
+				"brokerTIN": "JHGH77GHJGHJG",
+				"affliatedStates": ["OH"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Hogsmeade Inc."
+			},{
+				"brokerId": null,
+				"brokerTIN": "JHGHJGHJG09HJG",
+				"affliatedStates": ["CA"],
+				"payableBrokers": null,
+				"contactInfo": {
+					"communicationChannels": [
+						{
+							"name": "OfficePhone",
+							"value": "8775675267"
+						},
+						{
+							"name": "EmailAddress",
+							"value": "AGENTINFO@HEALTHPLANONE.COM"
+						}],					"address": {
+						"address1": "511-5762 At Rd.",
+						"address2": null,
+						"city": "Chelsea",
+						"state": "CA",
+						"zipCode": null,
+						"county": "Rosa",
+						"country": null
+					}
+				},
+				"type": null,
+				"name": "Hogsmeade Inc."
+			}],
+			"contactInfo": {
+				"communicationChannels": [
+					{
+						"name": "OfficePhone",
+						"value": "8775675267"
+					},
+					{
+						"name": "EmailAddress",
+						"value": "AGENTINFO@HEALTHPLANONE.COM"
+					}],				"address": {
+					"address1": "511-5762 At Rd.",
+					"address2": null,
+					"city": "Chelsea",
+					"state": "KY",
+					"zipCode": null,
+					"county": "Rosa",
+					"country": null
+				}
+			},
+			"type": "agent",
+			"name": "Hogsmeade Inc."
+		}],
+		"assignedAgents": [],
+		"assignedAgentsPopulated": false,
+		"associatedBrokerTIN": "JHJHJHJHJHJH",
+		"contactInfo": {
+			"communicationChannels": [
+				{
+					"name": "OfficePhone",
+					"value": "8775675267"
+				},
+				{
+					"name": "EmailAddress",
+					"value": "AGENTINFO@HEALTHPLANONE.COM"
+				}],
+			"address": null
+		}
+	}
+}

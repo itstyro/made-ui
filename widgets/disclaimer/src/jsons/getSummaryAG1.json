@@ -1,0 +1,15 @@
+{
+	"summary": 
+		{
+			"name": "David - Agent - Authorized (Multi Assoc)",
+			"type": "Agent",
+			"lineOfBusiness": "Agent", 
+			"hierarchyLevel": "Level1",
+			"getRelationShip": "Agent", 
+			"paidIdentifier": "AG1",
+			"getAddress": "test california",
+			"brokerIdentifier": "AG1",
+			"stateCode": 4780,
+			"isAuthorized": true
+		}
+}

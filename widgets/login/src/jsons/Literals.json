@@ -1,0 +1,12 @@
+{
+	"APP": [{
+		"pageContent": {
+			"txt_password" : "Password",
+			"txt_login" : "LOGIN",
+			"txt_MADE" : "M.A.D.E",
+			"txt_username" : "Username",
+			"txt_MADE_full_txt" : "Medicare Application Data Entry"
+
+		}
+	}]
+}

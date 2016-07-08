@@ -1,0 +1,15 @@
+{
+	"summary": 
+		{
+			"name": "John - Agent - Unauthorized",
+			"type": "Agent",
+			"lineOfBusiness": "Agent", 
+			"hierarchyLevel": "Level1",
+			"getRelationShip": "Agent", 
+			"paidIdentifier": "AG2",
+			"getAddress": "test california",
+			"brokerIdentifier": "AG2",
+			"stateCode": 4780,
+			"isAuthorized": false
+		}
+}

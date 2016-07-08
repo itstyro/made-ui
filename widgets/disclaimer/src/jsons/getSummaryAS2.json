@@ -1,0 +1,15 @@
+{
+	"summary": 
+		{
+			"name": "Brave - Assistant - Unauthorized",
+			"type": "Assistant",
+			"lineOfBusiness": "Assistant", 
+			"hierarchyLevel": "Level1",
+			"getRelationShip": "Assistant", 
+			"paidIdentifier": "AS2",
+			"getAddress": "test california",
+			"brokerIdentifier": "AS2",
+			"stateCode": 4780,
+			"isAuthorized": false
+		}
+}

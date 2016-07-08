@@ -1,0 +1,177 @@
+{
+	"broker": null,
+	"delegate": {
+		"firstName": "Jileesh",
+		"lastName": "Janardhanan",
+		"middleName": null,
+		"prefix": null,
+		"suffix": null,
+		"payableBrokers": [{
+			"brokerId": null,
+			"brokerTIN": "JHGHJG543HJGHJG",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": [
+					{
+						"name": "OfficePhone",
+						"value": "8775675267"
+					},
+					{
+						"name": "EmailAddress",
+						"value": "AGENTINFO@HEALTHPLANONE.COM"
+					}],
+				"address": {
+					"address1": "511-5762 At Rd.",
+					"address2": null,
+					"city": "Chelsea",
+					"state": "KY",
+					"zipCode": null,
+					"county": "Rosa",
+					"country": null
+				}
+			},
+			"type": "agency",
+			"name": "Hogsmeade Inc."
+		}],
+		"assignedAgents": [{
+			"brokerId": "999999999",
+			"brokerTIN": "YYYY78YYYYYYYYYYYYYYY",
+			"affliatedStates": ["NY"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": [
+					{
+						"name": "OfficePhone",
+						"value": "8775675267"
+					},
+					{
+						"name": "EmailAddress",
+						"value": "AGENTINFO@HEALTHPLANONE.COM"
+					}],
+				"address": {
+					"address1": "7292 Dictum Av.",
+					"address2": null,
+					"city": "San Antonio",
+					"state": "MI",
+					"zipCode": null,
+					"county": "Corona",
+					"country": null
+				}
+			},
+			"type": "Agent",
+			"firstName": "Arya",
+			"lastName": "Stark",
+			"middleName": null,
+			"prefix": null,
+			"suffix": null
+		},{
+			"brokerId": "999999999",
+			"brokerTIN": "YY677Y987YYYYYYYYYYYYY",
+			"affliatedStates":["CT"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": [
+					{
+						"name": "OfficePhone",
+						"value": "8775675267"
+					},
+					{
+						"name": "EmailAddress",
+						"value": "AGENTINFO@HEALTHPLANONE.COM"
+					}],
+				"address": {
+					"address1": "7292 Dictum Av.",
+					"address2": null,
+					"city": "San Antonio",
+					"state": "MI",
+					"zipCode": null,
+					"county": "Corona",
+					"country": null
+				}
+			},
+			"type": "Agent",
+			"firstName": "Jon",
+			"lastName": "Snow",
+			"middleName": null,
+			"prefix": null,
+			"suffix": null
+		},{
+			"brokerId": "999999999",
+			"brokerTIN": "YYYY7789YYYYYYYYYYYYY",
+			"affliatedStates": ["CO", "NY"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": [
+					{
+						"name": "OfficePhone",
+						"value": "8775675267"
+					},
+					{
+						"name": "EmailAddress",
+						"value": "AGENTINFO@HEALTHPLANONE.COM"
+					}],
+				"address": {
+					"address1": "7292 Dictum Av.",
+					"address2": null,
+					"city": "San Antonio",
+					"state": "CT",
+					"zipCode": null,
+					"county": "Corona",
+					"country": null
+				}
+			},
+			"type": "Agent",
+			"firstName": "Agenct Z-101",
+			"lastName": null,
+			"middleName": null,
+			"prefix": null,
+			"suffix": null
+		},{
+			"brokerId": "999999999",
+			"brokerTIN": "YYYY787-6428YYYYYYYYY",
+			"affliatedStates": ["CO", "NY"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": [
+					{
+						"name": "OfficePhone",
+						"value": "8775675267"
+					},
+					{
+						"name": "EmailAddress",
+						"value": "AGENTINFO@HEALTHPLANONE.COM"
+					}],
+				"address": {
+					"address1": "7292 Dictum Av.",
+					"address2": null,
+					"city": "San Antonio",
+					"state": "CA",
+					"zipCode": null,
+					"county": "Corona",
+					"country": null
+				}
+			},
+			"type": "Agent",
+			"firstName": "Agenct Z-101",
+			"lastName": null,
+			"middleName": null,
+			"prefix": null,
+			"suffix": null
+		}],
+		"assignedAgentsPopulated": true,
+		"associatedBrokerTIN": "JHJHJHJHJHJH",
+		"contactInfo": {
+			"communicationChannels": [
+				{
+					"name": "OfficePhone",
+					"value": "8775675267"
+				},
+				{
+					"name": "EmailAddress",
+					"value": "AGENTINFO@HEALTHPLANONE.COM"
+				}],
+			"address": null
+		}
+	}
+}

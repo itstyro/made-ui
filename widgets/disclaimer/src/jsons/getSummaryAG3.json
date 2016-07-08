@@ -1,0 +1,15 @@
+{
+	"summary": 
+		{
+			"name": "Peter - Agent - SingleAssoc",
+			"type": "Agent",
+			"lineOfBusiness": "Agent", 
+			"hierarchyLevel": "Level1",
+			"getRelationShip": "Agent", 
+			"paidIdentifier": "AG3",
+			"getAddress": "test california",
+			"brokerIdentifier": "AG3",
+			"stateCode": 4781,
+			"isAuthorized": true
+		}
+}

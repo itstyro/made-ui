@@ -1,0 +1,15 @@
+{
+	"summary": 
+		{
+			"name": "Doe - Assistant - SingleAssoc",
+			"type": "Assistant",
+			"lineOfBusiness": "Assistant", 
+			"hierarchyLevel": "Level1",
+			"getRelationShip": "Assistant", 
+			"paidIdentifier": "AS3",
+			"getAddress": "test california",
+			"brokerIdentifier": "AS3",
+			"stateCode": 4781,
+			"isAuthorized": true
+		}
+}

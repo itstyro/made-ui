@@ -1,0 +1,18 @@
+{
+    "port": 8888,
+    "host": "localhost",
+    "staticFolderMount": "/assets",
+    "staticFolders": ["dist"],
+    "maxAge": "1d",
+    "development": true,
+    "templateRoot": "templates",
+    "validateZipCode"                   : "http://VA10DLVWBS306:8070/api/servicearea/",
+    "getUserSummary"                    : "http://VA10DLVWBS306:8090/api/medicare/brokers/profile/",
+    "fetchcmsBrands_url"                : "http://va10n40504.anthem.com:81/cs/Satellite?pagename=MADE%2FPortal%2FGetCountyJson&state=",
+    "fetchPlan_url"                     : "http://VA10DLVWBS306:8013/api/medicare/plans?state=",
+    "fetchAgentDashBoard_url"           : "http://localhost:8888/jsons/agentDashboardSummary.json",
+    "fetchAssistantDashBoard_url_local"       : "http://localhost:9999/jsons/assistantDashboardSummary.json",
+    "fetchAssistantDashBoard_url"     :          "http://VDAASW704505:8010/api/medicare/applications?agentTin=",
+    "STUB_fetchBrokerList_url"          : "http://localhost:8888/jsons/fetchBrokerList.json",
+    "fetchBrokerList_url"               : "/api/medicare/brokers/{taxId}/agents?state={state}&userid={userid}"
+}

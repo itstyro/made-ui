@@ -1,0 +1,67 @@
+.row{
+	padding-left: 27%;
+    padding-top: 10%;
+	padding-right:35%;
+}
+
+.box{
+	border: 1px solid black;
+    padding-left: 11%;
+    padding-right: 11%;
+	padding-top:5%;
+	padding-bottom:8%;
+	 margin-top: 20%;
+}
+
+
+.title{
+
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 0px;
+    padding-left: 0px;
+    color: #3366CC;
+}
+
+.subtitle
+{
+font-size:17px;
+color: #3366CC;
+text-align:center;
+font-weight:bold;
+padding-top:6px;
+padding-left:0px;
+padding-bottom: 70px;
+
+
+}
+
+
+
+.btn-default{
+
+	width: 30%;
+
+}
+
+.form-group-btn{
+	padding-top:5%;
+	
+	
+}
+
+.btn{
+	
+	width:100%;
+	background-image:none !important;
+	background-color:#FE5E3C;
+	text-shadow: none !important;
+	color:white;
+	
+}
+.footer{
+	
+	padding-top:2%;
+	font-size:12px;
+}

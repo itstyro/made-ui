@@ -1,0 +1,13 @@
+require('es6-promise').Promise;
+
+module.exports = {
+    CMS_CONTENT_URL :'https://ecm-mgmt.dev.va.internal.das/cs/Satellite?c=Portal_C&cid=1439331474492&d=Universal&pagename=brkSecure/Portal_C/MADE/Portal/DynamicContent',   // "http://localhost:7777/jsons/CMSResponseStub.json',
+    CHANGETIN_TABLE_FILTER : "ON_CHANGE_TIN_TABLE_FILTER",
+    CMS_CONTENT_SUCCESS : 'ON_SUCCESS',
+    USER_DETAIL_FETCH_SUCCESS : 'ON_STUB_FETCH',
+    REQUEST_STATE_UPDATE : 'REQUEST_STATE_UPDATE',
+    RESET_APP_STATE : 'RESET_APP_STATE',
+    RESET_COMPONENT_STATE : 'RESET_COMPONENT_STATE',
+    CHANGETIN_AGENCY_TABLE_FILTER : 'CHANGETIN_AGENCY_TABLE_FILTER',
+    GENERAL_AGENCY_FETCH_BROKERS_SUCCESS : "GENERAL_AGENCY_FETCH_BROKERS_SUCCESS"
+}

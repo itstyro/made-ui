@@ -1,0 +1,109 @@
+{
+	"broker": {
+		"brokerId": "123456",
+		"brokerTIN": "WSHGHGUTJHVJHGHHK",
+		"affliatedStates": ["CO"],
+		"payableBrokers": [{
+			"brokerId": null,
+			"brokerTIN": "JHGHJGHJGHJZ",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "711-2880 Nulla St.",
+					"address2": null,
+					"city": "Mankato",
+					"state": "CO",
+					"zipCode": null,
+					"county": "Azusa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Hogsmeade Inc."
+		}, {
+			"brokerId": null,
+			"brokerTIN": "JHGHJGHJGHJQ",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "711-2880 Nulla St.",
+					"address2": null,
+					"city": "Mankato",
+					"state": "CO",
+					"zipCode": null,
+					"county": "Azusa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Gryffindor Inc."
+		},{
+			"brokerId": null,
+			"brokerTIN": "JHGHIUGHJGHJG",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "711-2880 Nulla St.",
+					"address2": null,
+					"city": "Mankato",
+					"state": "CO",
+					"zipCode": null,
+					"county": "Azusa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Gryffindor Inc."
+		},{
+			"brokerId": null,
+			"brokerTIN": "JHGNHGJGHJGHJG",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "712 3rd St. Rocky Hill",
+					"address2": null,
+					"city": "Mankato",
+					"state": "CO",
+					"zipCode": null,
+					"county": "Azusa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "USA Health Inc."
+		}],
+		"contactInfo": {
+			"communicationChannels": [{
+				"name": "EmailAddress",
+				"value": "asaasd@gmail.com"
+			}, {
+				"name": "OfficePhone",
+				"value": "12121212121"
+			}],
+			"address": {
+				"address1": "22130 Victory Blvs",
+				"address2": "E11",
+				"city": "Woodland Hills",
+				"state": "CA",
+				"zipCode": "91367",
+				"county": "Los Angeles",
+				"country": "US"
+			}
+		},
+		"type": "Agent",
+		"firstName": "Raghu",
+		"lastName": "Ponniah",
+		"middleName": "Raman",
+		"prefix": null,
+		"suffix": null
+	},
+	"delegate": null
+}

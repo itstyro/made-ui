@@ -1,0 +1,25 @@
+{
+   "selectwritingagent":[
+      {
+         "pageContent":{
+            "content":[
+               {
+                  "content":"\r\n\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor.<\/span><\/div>\r\n",
+                  "field_type":"rich_text",
+                  "name":"AffiliationDescription",
+                  "type":"information"
+               }
+            ],
+            "lblCustomerCreditVia":"How would you like to credited for this customer?",
+            "lblPickState":"Pick a State",
+            "lblContinue":"Continue",
+            "messages":{
+               "lblErrorMessageAgencyRequired":"Please select Agency to proceed.",
+               "lblErrorMessageStateRequired":"Please select State to proceed",
+               "lblErrorMessageAgentRequired":"Please select Agent to Proceed."
+            },
+            "lblSelectAffiliation":"Select Affiliation"
+         }
+      }
+   ]
+}

@@ -1,0 +1,28 @@
+{
+	"logindata": [
+		{
+			"name": "David - Agent - Authorized (Multi Assoc)",
+			"brokerIdentifier": "AG1"
+		},
+		{
+			"name": "John - Agent - Unauthorized",
+			"brokerIdentifier": "AG2"
+		},
+		{
+			"name": "Peter - Agent - SingleAssoc",
+			"brokerIdentifier": "AG3"
+		},
+		{
+			"name": "Gru - Assistant - Authorized (Multi Assoc)",
+			"brokerIdentifier": "AS1"
+		},
+		{
+			"name": "Brave - Assistant - Unauthorized",
+			"brokerIdentifier": "AS2"
+		},
+		{
+			"name": "Doe - Assistant - SingleAssoc",
+			"brokerIdentifier": "AS3"
+		}
+	]
+}

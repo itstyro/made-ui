@@ -1,0 +1,104 @@
+{
+	"broker": null,
+	"delegate": {
+		"firstName": "Jileesh",
+		"lastName": "Janardhanan",
+		"middleName": null,
+		"prefix": null,
+		"suffix": null,
+		"payableBrokers": [{
+			"brokerId": null,
+			"brokerTIN": "JHGHJG543HJGHJG",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "511-5762 At Rd.",
+					"address2": null,
+					"city": "Chelsea",
+					"state": "KY",
+					"zipCode": null,
+					"county": "Rosa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Hogsmeade Inc."
+		}, {
+			"brokerId": null,
+			"brokerTIN": "JHGH77GHJGHJG",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "511-5762 At Rd.",
+					"address2": null,
+					"city": "Chelsea",
+					"state": "CA",
+					"zipCode": null,
+					"county": "Rosa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Hogsmeade Inc."
+		},{
+			"brokerId": null,
+			"brokerTIN": "JHGHJGHJG09HJG",
+			"affliatedStates": null,
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": null,
+				"address": {
+					"address1": "511-5762 At Rd.",
+					"address2": null,
+					"city": "Chelsea",
+					"state": "CA",
+					"zipCode": null,
+					"county": "Rosa",
+					"country": null
+				}
+			},
+			"type": null,
+			"name": "Hogsmeade Inc."
+		}],
+		"assignedAgents": [{
+			"brokerId": "999999999",
+			"brokerTIN": "YYYYYYYYYYYYYYYYYYY",
+			"affliatedStates": ["CO", "NY"],
+			"payableBrokers": null,
+			"contactInfo": {
+				"communicationChannels": [{
+					"name": "EmailAddress",
+					"value": "iweuytreiuty348756@gmail.com"
+				}],
+				"address": {
+					"address1": "7292 Dictum Av.",
+					"address2": null,
+					"city": "San Antonio",
+					"state": "MI",
+					"zipCode": null,
+					"county": "Corona",
+					"country": null
+				}
+			},
+			"type": "Agenct",
+			"firstName": "Agenct Z-101",
+			"lastName": null,
+			"middleName": null,
+			"prefix": null,
+			"suffix": null
+		}],
+		"assignedAgentsPopulated": true,
+		"associatedBrokerTIN": "JHJHJHJHJHJH",
+		"contactInfo": {
+			"communicationChannels": [{
+				"name": "EmailAddress",
+				"value": "asaasd@gmail.com"
+			}],
+			"address": null
+		}
+	}
+}

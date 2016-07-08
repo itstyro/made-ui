@@ -1,0 +1,50 @@
+{  
+   "Disclaimer":[  
+      {  
+         "pageContent":{  
+            "content":[  
+               {  
+                  "content":" 
+\r\n\tPLEASE NOTE:<\/span>In order to market Medicare Advantage(MA) and Prescription Drug (Part D) plans, the center for Medicare and Medicaid Services (CMS) and Anthem Inc., mandate that Brokers be in good standing with all state\/brand appointment, licensing, annual certification and product training requirements <\/u><\/strong>prior<\/span><\/em> <\/span>to discussing any benefits with current or prospective members, or prior to submitting any enrollments.<\/div>\r\n 
+\r\n\t <\/div>\r\n 
+\r\n\tProduct training and certofciation requirements are determined by the brand, states, and product in which you are licensed and appointed.To check if you are in good standing with the necessary requirements for marketing Medicare Advantage and Part D products.<\/div>\r\n",
+                  "field_type":"rich_text",
+                  "name":"disclaimerMsg",
+                  "type":"information"
+               },
+               {  
+                  "content":" 
+\r\n\t 
+\r\n\t\tAnthem West<\/strong><\/span><\/div>\r\n\t 
+\r\n\t\tLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit<\/div>\r\n\t
+\r\n\t\tamet lacus accumsan et viverra justo commodo.<\/div>\r\n<\/div>\r\n 
+\r\n\t <\/div>\r\n",
+                  "field_type":"rich_text",
+                  "name":"descriptionAnthemWest",
+                  "type":"information"
+               },
+               {  
+                  "content":" 
+\r\n\tPlease read and acknowledge the Legal agreement to Continue. If you are authorized for a Brand(s) that is not<\/span><\/div>\r\n 
+\r\n\tlisted above please contact<\/span> <lorem@anthem.com<\/span>><\/div>\r\n",
+                  "field_type":"rich_text",
+                  "name":"agentAcknowledgeMsg",
+                  "type":"information"
+               }
+            ],
+            "lblAccept":"Accept",
+            "lblTermsAcknowledgement":"I have read and agree to the Terms",
+            "lblLegalAgreement":"Legal Agreements",
+            "messages":[  
+               {  
+                  "content":" 
+\r\n\tPlease accept the terms to proceed further.<\/span><\/div>\r\n",
+                  "field_type":"rich_text",
+                  "name":"termsToBeAgreed",
+                  "type":"errorMessage"
+               }
+            ]
+         }
+      }
+   ]
+}
